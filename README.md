@@ -15,10 +15,10 @@
   </a>
   <br>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/Black-devilking/File-Sharing-Bot?style=social">
   </a>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Black-devilking/File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
 
